@@ -36,6 +36,5 @@ The project consolidates multiple tables from the database:
 This analysis enables the business to:  
 - Negotiate better vendor contracts by leveraging volume-based discounts  
 - Reduce inventory costs by identifying low-turnover vendors  
-- Focus on profitability rather than sales volume alone  
 - Optimize procurement strategy to balance cost, revenue, and margin  
 
